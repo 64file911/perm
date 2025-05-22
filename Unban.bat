@@ -63,10 +63,10 @@ if /i "%isLocked%" == "No" (
     "%~dp0AMI\AMIDEWINx64.EXE" /SS %output9% >nul
     "%~dp0AMI\AMIDEWINx64.EXE" /SU AUTO >nul
     "%~dp0AMI\AMIDEWINx64.EXE" /SK "To Be Filled By O.E.M" >nul
-    "%~dp0AMI\AMIDEWINx64.EXE" /SF "NIGGA U GOT SPOFF BY 64th Service" >nul
+    "%~dp0AMI\AMIDEWINx64.EXE" /SF "To Be Filled By O.E.M" >nul
     "%~dp0AMI\AMIDEWINx64.EXE" /BM "ASRock" >nul
     "%~dp0AMI\AMIDEWINx64.EXE" /BP "B560M-C" >nul
-    "%~dp0AMI\AMIDEWINx64.EXE" /BV " " >nul
+    "%~dp0AMI\AMIDEWINx64.EXE" /BV "To Be Filled By O.E.M" >nul
     "%~dp0AMI\AMIDEWINx64.EXE" /BS %output91% >nul
     "%~dp0AMI\AMIDEWINx64.EXE" /BT "Default string" >nul
     "%~dp0AMI\AMIDEWINx64.EXE" /BLC "Default string" >nul
@@ -75,9 +75,9 @@ if /i "%isLocked%" == "No" (
     "%~dp0AMI\AMIDEWINx64.EXE" /CS %output92% >nul
     "%~dp0AMI\AMIDEWINx64.EXE" /CA "Default string" >nul
     "%~dp0AMI\AMIDEWINx64.EXE" /CSK "SKU" >nul
-    "%~dp0AMI\AMIDEWINx64.EXE" /PSN "NIGGA U GOT SPOFF BY 64th Service" >nul
-    "%~dp0AMI\AMIDEWINx64.EXE" /PAT "NIGGA U GOT SPOFF BY 64th Service" >nul
-    "%~dp0AMI\AMIDEWINx64.EXE" /PPN "NIGGA U GOT SPOFF BY 64th Service" >nul
+    "%~dp0AMI\AMIDEWINx64.EXE" /PSN "To Be Filled By O.E.M" >nul
+    "%~dp0AMI\AMIDEWINx64.EXE" /PAT "To Be Filled By O.E.M" >nul
+    "%~dp0AMI\AMIDEWINx64.EXE" /PPN "To Be Filled By O.E.M" >nul
 
     echo [32mMotherboard Spoofed![0m
 )
